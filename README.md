@@ -2,7 +2,7 @@
   
 # Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> My name is Roman 👨‍💻
 
-I am a student majoring in Computer Science and Engineering from Yekaterinburg. Aspiring software developer.
+I am a student majoring in Computer Science and Engineering from Yekaterinburg. Nowadays in Tomsk. Aspiring software developer.
 
 ![markld-ui's Stats](https://github-readme-stats.vercel.app/api?username=markld-ui&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
