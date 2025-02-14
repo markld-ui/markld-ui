@@ -14,7 +14,6 @@ I am a student majoring in Computer Science and Engineering from Yekaterinburg. 
 
 ![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=markld-ui&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=markld-ui&layout=compact&langs_count=20&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&custom_title=Top%20%Languages)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=markld-ui&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)
 ![GitHub Commits Graph](https://github-readme-activity-graph.vercel.app/graph?username=markld-ui&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Contribution%20Graph)
 ![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@markld-ui&show_icons=true&layout=compact&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true)
 
